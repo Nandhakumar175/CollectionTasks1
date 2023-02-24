@@ -1,4 +1,4 @@
-![Screenshot (124)](https://user-images.githubusercontent.com/113417088/221118941-0a04cf55-b80a-4abd-b9f9-31ce531b1a46.png)
+
 
 # CollectionTasks1
 newly learning
