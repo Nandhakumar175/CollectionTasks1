@@ -2,4 +2,4 @@
 newly learning
 1.collection sort(java.util.Collections.sort() method is present in java.util.Collections class. It is used to sort the elements present in the specified list)
 2.comparator  (A comparator object is capable of comparing two objects of the same class. Following function compare obj1 with obj2.)
-
+3.Map.entry (The Map. entrySet method returns a collection-view of the map, whose elements are of this class)
